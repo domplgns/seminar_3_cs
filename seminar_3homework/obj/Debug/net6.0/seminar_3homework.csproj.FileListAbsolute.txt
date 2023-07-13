@@ -1,0 +1,15 @@
+/Users/admin/Desktop/seminar_3/seminar_3homework/bin/Debug/net6.0/seminar_3homework
+/Users/admin/Desktop/seminar_3/seminar_3homework/bin/Debug/net6.0/seminar_3homework.deps.json
+/Users/admin/Desktop/seminar_3/seminar_3homework/bin/Debug/net6.0/seminar_3homework.runtimeconfig.json
+/Users/admin/Desktop/seminar_3/seminar_3homework/bin/Debug/net6.0/seminar_3homework.dll
+/Users/admin/Desktop/seminar_3/seminar_3homework/bin/Debug/net6.0/seminar_3homework.pdb
+/Users/admin/Desktop/seminar_3/seminar_3homework/obj/Debug/net6.0/seminar_3homework.csproj.AssemblyReference.cache
+/Users/admin/Desktop/seminar_3/seminar_3homework/obj/Debug/net6.0/seminar_3homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/seminar_3/seminar_3homework/obj/Debug/net6.0/seminar_3homework.AssemblyInfoInputs.cache
+/Users/admin/Desktop/seminar_3/seminar_3homework/obj/Debug/net6.0/seminar_3homework.AssemblyInfo.cs
+/Users/admin/Desktop/seminar_3/seminar_3homework/obj/Debug/net6.0/seminar_3homework.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/seminar_3/seminar_3homework/obj/Debug/net6.0/seminar_3homework.dll
+/Users/admin/Desktop/seminar_3/seminar_3homework/obj/Debug/net6.0/refint/seminar_3homework.dll
+/Users/admin/Desktop/seminar_3/seminar_3homework/obj/Debug/net6.0/seminar_3homework.pdb
+/Users/admin/Desktop/seminar_3/seminar_3homework/obj/Debug/net6.0/seminar_3homework.genruntimeconfig.cache
+/Users/admin/Desktop/seminar_3/seminar_3homework/obj/Debug/net6.0/ref/seminar_3homework.dll
